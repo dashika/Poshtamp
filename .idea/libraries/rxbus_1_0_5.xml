@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rxbus-1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/bf59a549d7e3879346dc0ebc8fc2aee010dda1b6/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/bf59a549d7e3879346dc0ebc8fc2aee010dda1b6/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hwangjr.rxbus/rxbus/1.0.5/58e4c6b83a049d6689cb920044673030acba7fa5/rxbus-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
